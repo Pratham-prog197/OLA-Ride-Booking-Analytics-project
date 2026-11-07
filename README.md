@@ -78,7 +78,7 @@ The project investigates these challenges through the following analytical objec
 | Reporting | Develop interactive dashboards to communicate findings and support business decisions |
 | Business Improvement | Develop recommendations based on observed patterns |
 
-## 🛠️ Tech Stack
+## 4. 🛠️ Tech Stack
 
 | Technology | Application |
 |---|---|
@@ -129,7 +129,7 @@ The dataset contains four major booking outcomes:
 
 These categories were used to analyse booking performance and operational efficiency.
 
-## 🧹 Data Cleaning & Preparation
+## 5. 🧹 Data Cleaning & Preparation
 
 The initial dataset was imported into MySQL Workbench, where a separate analytical table was created.
 
