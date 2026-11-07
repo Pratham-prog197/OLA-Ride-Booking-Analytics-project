@@ -1,6 +1,12 @@
 # 🚖 OLA Ride Booking Analytics | SQL & Power BI
 
-An end-to-end Data Analytics project focused on analysing ride-booking performance, revenue trends, customer behaviour, vehicle performance and operational efficiency using **MySQL and Power BI**.
+An end-to-end business analytics project analysing ride-booking transactions to evaluate business performance, revenue contribution, customer behaviour, vehicle performance and operational efficiency.
+
+Project Type: Business Intelligence & Data Analytics
+Domain: Transportation / Ride-Hailing
+Tools: MySQL Workbench, SQL, Microsoft Power BI, DAX, Microsoft Excel
+Dataset: 20,407 ride-booking records
+Analysis Period: July 2024
 
 ---
 
@@ -8,9 +14,25 @@ An end-to-end Data Analytics project focused on analysing ride-booking performan
 
 This project explores a ride-booking dataset containing approximately **20,407 booking records** from July 2024. The objective is to transform raw booking data into meaningful business insights through data cleaning, exploratory analysis, SQL querying and interactive Power BI dashboards.
 
-The analysis focuses on understanding booking success rates, revenue generation, customer activity, cancellation patterns, payment preferences, vehicle performance and location-based demand.
+This project focuses on analysing ride-booking data to understand the operational and financial performance of a ride-hailing business.
 
-The project follows an end-to-end analytics workflow, starting with raw Excel data and progressing through MySQL data preparation and analysis to interactive business intelligence reporting.
+Using MySQL, I performed data preparation, data quality checks and business-oriented SQL analysis. I subsequently developed an interactive five-page Power BI report to transform the analytical results into meaningful visual insights.
+
+The analysis covers booking performance, revenue generation, cancellation patterns, customer activity, payment preferences, vehicle performance, location-based demand and operational efficiency.
+
+The objective was not simply to create dashboards, but to identify potential business problems, understand the factors influencing performance and develop data-driven recommendations that could help improve a ride-hailing business.
+
+## Project at a Glance
+
+| Project Metric | Value |
+|:---|---:|
+| Total Booking Records | 20,407 |
+| Unique Customers | 20,189 |
+| Successful Rides | 12,652 |
+| Total Successful-Ride Revenue | ₹69,00,234 |
+| SQL Analytical Queries | Approximately 30 |
+| SQL Result Exports | 29 CSV Files |
+| Power BI Report Pages | 5 |
 
 ## 🎯 Business Objectives
 
@@ -460,31 +482,6 @@ OLA-Ride-Booking-Analytics/
 
 *Note: This is the suggested repository structure. Adjust the filenames to match the files you actually upload.*
 
-## 🚀 How to Use This Project
-
-1. Clone or download this repository.
-2. Import the dataset into MySQL Workbench.
-3. Create the `ola` database.
-4. Execute the SQL cleaning and table preparation scripts.
-5. Run the analytical SQL queries.
-6. Review the exported CSV results.
-7. Open the Power BI `.pbix` file using Power BI Desktop.
-8. Refresh the data source if required.
-9. Explore the five report pages and interact with the available filters.
-
-## ⚠️ Dataset Disclaimer & Limitations
-
-This project uses a sample ride-booking dataset obtained through an educational tutorial resource. It has not been independently verified as official OLA operational data.
-
-The analysis represents the supplied dataset and should not be interpreted as actual company-wide OLA performance.
-
-Additional limitations:
-
-- The dataset covers approximately one month, limiting long-term trend and retention analysis.
-- Repeat customer activity should not be interpreted as long-term customer loyalty.
-- Missing ratings for unsuccessful bookings were retained as NULL.
-- Turnaround-time fields should not be interpreted as actual trip duration without confirming their definitions.
-- Business recommendations are based on the patterns observed in the available sample data.
 
 ## 👨‍💻 Author
 
