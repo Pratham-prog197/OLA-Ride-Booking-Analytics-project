@@ -1,0 +1,8 @@
+Vehicle_Type,rated_bookings,avg_customer_rating,min_customer_rating,max_customer_rating
+Mini,1801,4.02,3,5
+"Prime Plus",1680,4,3,5
+Auto,1813,4,3,5
+"Prime Sedan",1852,3.99,3,5
+Bike,1854,3.98,3,5
+"Prime SUV",1784,3.98,3,5
+eBike,1868,3.98,3,5

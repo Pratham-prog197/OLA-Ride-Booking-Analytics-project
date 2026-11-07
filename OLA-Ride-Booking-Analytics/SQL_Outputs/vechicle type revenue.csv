@@ -1,0 +1,8 @@
+Vehicle_Type,successful_rides,total_revenue,avg_booking_value,avg_ride_distance,revenue_contribution_pct,revenue_rank
+"Prime Sedan",1852,1056843.00,570.65,24.28,15.32,1
+eBike,1868,994764.00,532.53,25.16,14.42,2
+Auto,1813,992781.00,547.59,10.00,14.39,3
+Bike,1854,985073.00,531.32,25.70,14.28,4
+Mini,1801,973646.00,540.61,25.02,14.11,5
+"Prime SUV",1784,962248.00,539.38,25.07,13.95,6
+"Prime Plus",1680,934879.00,556.48,24.68,13.55,7

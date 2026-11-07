@@ -1,0 +1,8 @@
+Vehicle_Type,total_bookings,avg_vehicle_tat_successful,avg_customer_tat_successful,avg_successful_ride_distance
+"Prime Sedan",2945,172.39,85.4,24.28
+Bike,2949,172.21,84.49,25.70
+Mini,2867,171.59,84.23,25.02
+eBike,2997,171.07,86.11,25.16
+Auto,2916,170.62,85.68,10.00
+"Prime Plus",2788,168.27,86.72,24.68
+"Prime SUV",2945,168.04,83.71,25.07

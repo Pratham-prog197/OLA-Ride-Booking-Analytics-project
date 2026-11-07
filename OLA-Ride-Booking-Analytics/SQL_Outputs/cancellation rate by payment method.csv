@@ -1,0 +1,5 @@
+Payment_Method,total_bookings,cancelled_bookings,cancellation_rate_pct
+Cash,6934,0,0.00
+UPI,5113,0,0.00
+"Credit Card",480,0,0.00
+"Debit Card",125,0,0.00

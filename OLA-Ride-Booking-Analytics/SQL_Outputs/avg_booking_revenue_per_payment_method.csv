@@ -1,0 +1,5 @@
+Payment_Method,successful_transactions,total_revenue,avg_booking_value
+Cash,6934,3821738.00,551.16
+UPI,5113,2763547.00,540.49
+"Credit Card",480,249494.00,519.78
+"Debit Card",125,65455.00,523.64

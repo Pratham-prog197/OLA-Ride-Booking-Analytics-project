@@ -1,0 +1,5 @@
+Booking_Status,booking_count,booking_percentage
+Success,12652,62.00
+"Canceled by Driver",3654,17.91
+"Canceled by Customer",2081,10.20
+"Driver Not Found",2020,9.90

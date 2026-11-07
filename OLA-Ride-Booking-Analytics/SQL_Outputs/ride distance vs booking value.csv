@@ -1,0 +1,5 @@
+distance_band,successful_rides,avg_booking_value,avg_ride_distance,avg_booking_value_per_distance_unit
+"Under 5 km",1302,539.63,2.50,276.35
+"5-10 km",1592,548.91,7.00,81.30
+"10-20 km",3116,542.34,14.41,39.19
+"20+ km",6642,547.10,34.58,16.95

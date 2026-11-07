@@ -1,0 +1,8 @@
+Vehicle_Type,successful_rides,avg_ride_distance,min_ride_distance,max_ride_distance,total_ride_distance
+Bike,1854,25.70,1,49,47644
+eBike,1868,25.16,1,49,46992
+"Prime SUV",1784,25.07,1,49,44726
+Mini,1801,25.02,1,49,45055
+"Prime Plus",1680,24.68,1,49,41461
+"Prime Sedan",1852,24.28,1,49,44971
+Auto,1813,10.00,1,19,18122

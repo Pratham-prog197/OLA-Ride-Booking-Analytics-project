@@ -1,0 +1,8 @@
+day_name,day_number,total_bookings,successful_bookings,successful_revenue
+Sunday,1,2643,1637,853869.00
+Monday,2,3479,2163,1170430.00
+Tuesday,3,3439,2112,1158791.00
+Wednesday,4,2738,1699,919325.00
+Thursday,5,2714,1693,948752.00
+Friday,6,2722,1680,922665.00
+Saturday,7,2672,1668,926402.00

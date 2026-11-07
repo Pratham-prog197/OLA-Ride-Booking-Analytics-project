@@ -1,0 +1,21 @@
+Pickup_Location,Drop_Location,successful_rides,total_revenue,avg_booking_value,avg_ride_distance
+"Magadi Road",Hebbal,14,10974.00,783.86,23.71
+Rajajinagar,"HSR Layout",12,10520.00,876.67,18.75
+"Ramamurthy Nagar","BTM Layout",11,10362.00,942.00,26.64
+"Bannerghatta Road",Hulimavu,13,10106.00,777.38,14.00
+Chamarajpet,"Richmond Town",13,10056.00,773.54,22.69
+Devanahalli,Yeshwanthpur,11,9811.00,891.91,22.18
+Kammanahalli,"JP Nagar",10,9312.00,931.20,17.90
+Ulsoor,Hebbal,15,8924.00,594.93,18.53
+Shivajinagar,Banashankari,12,8696.00,724.67,25.50
+"Electronic City",Banashankari,10,8193.00,819.30,30.30
+Kengeri,Yeshwanthpur,13,8193.00,630.23,21.54
+"Cox Town",Vijayanagar,13,8019.00,616.85,25.69
+"RT Nagar","KR Puram",10,8017.00,801.70,21.70
+Kammanahalli,"RT Nagar",10,7680.00,768.00,25.20
+"HSR Layout",Indiranagar,10,7433.00,743.30,20.60
+Bellandur,Indiranagar,11,7332.00,666.55,24.18
+Indiranagar,Basavanagudi,13,7302.00,561.69,23.77
+Hennur,Kengeri,13,7232.00,556.31,14.69
+Marathahalli,"Richmond Town",11,7081.00,643.73,31.45
+"Mysore Road",Kammanahalli,10,7012.00,701.20,17.20

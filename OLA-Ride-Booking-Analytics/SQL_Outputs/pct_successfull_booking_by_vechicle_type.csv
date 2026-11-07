@@ -1,0 +1,8 @@
+Vehicle_Type,total_bookings,successful_bookings,success_rate_pct
+"Prime Sedan",2945,1852,62.89
+Bike,2949,1854,62.87
+Mini,2867,1801,62.82
+eBike,2997,1868,62.33
+Auto,2916,1813,62.17
+"Prime SUV",2945,1784,60.58
+"Prime Plus",2788,1680,60.26

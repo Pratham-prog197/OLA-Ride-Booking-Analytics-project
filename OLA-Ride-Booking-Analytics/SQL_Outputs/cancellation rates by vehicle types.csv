@@ -1,0 +1,8 @@
+Vehicle_Type,total_bookings,customer_cancellations,driver_cancellations,overall_cancellation_rate_pct
+"Prime Plus",2788,313,532,30.31
+eBike,2997,333,541,29.16
+"Prime SUV",2945,305,521,28.05
+Mini,2867,292,510,27.97
+Auto,2916,276,531,27.67
+"Prime Sedan",2945,280,513,26.93
+Bike,2949,282,506,26.72
